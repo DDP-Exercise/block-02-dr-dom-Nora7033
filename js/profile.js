@@ -22,9 +22,12 @@ const SAVIOR = {
     hobbies: ["Running", "Climbing", "Cycling", "Swimming"],
     type_of_companion: "highland cattle",
     companion: {
-        name: "Angus",
-        age: 15,
-        color: "brown"
+        Firstname: "Angus",
+        Lastname: "MacLeod of Pollok",
+        Age: "47 or 42?",
+        Color: "brown",
+        Hobbies: ["Social interaction", " Cycling", " Snorkeling"],
+
     }
 };
 
