@@ -126,3 +126,6 @@ if (sameAnti && firstAnti !== null) {
     console.log(firstAnti + " wins anti-diagonally!");
     winner = true;
 }
+if (!winnerFound) {
+    console.log("No winner yet!");
+}
